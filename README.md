@@ -12,9 +12,9 @@ Este programa imprime chistes malos de forma automática en bucle infinito. Cada
 - **Impresión en slow motion:** Cada letra se imprime con un pequeño retardo para mayor efecto cómico.
 - **Fácil de usar:** Solo ejecuta el script y ríete (o sufre).
 
+## 🧪 Ejemplo de salida
+
 ```python
-🧪 Ejemplo de salida
-bash
 Chiste: ¿Qué hace una abeja en el gimnasio?
 Respuesta: ¡Zum-ba!
 (Sí, son así de malos)
